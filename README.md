@@ -1,0 +1,2 @@
+# fcc-js
+Practice JS.
